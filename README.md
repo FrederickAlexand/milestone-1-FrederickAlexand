@@ -21,15 +21,15 @@ Website Atap Aspal Palembang dirancang untuk memamerkan berbagai produk atap yan
 ## Tangkapan Layar Pengembangan
 
 ### Tahap 1: Desain Awal
-![Desain Awal](screenshots/tahap1.png)
+![Desain Awal](images/documentation/awal.jpg)
 Deskripsi: Desain awal untuk halaman utama dengan header dan bagian konten.
 
 ### Tahap 2: Implementasi Slider Produk
-![Slider Produk](screenshots/tahap2.png)
+![Slider Produk](images/documentation/slider.jpg)
 Deskripsi: Implementasi slider Swiper untuk menampilkan berbagai produk atap.
 
 ### Tahap 3: Desain Responsif
-![Desain Responsif](screenshots/tahap3.png)
+![Desain Responsif](images/documentation/responsif.jpg)
 Deskripsi: Menyesuaikan tata letak dan desain untuk berbagai ukuran layar.
 
 ## Ketergantungan dan Pustaka Eksternal

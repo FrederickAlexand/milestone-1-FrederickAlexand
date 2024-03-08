@@ -121,13 +121,14 @@ html::-webkit-scrollbar-thumb{
     font-weight: bolder;
     margin-bottom: 2rem;
     line-height: 7rem;
-    color: var(--black);
+    color: var(--white);
     text-shadow: var(--box-shadow);
 }
 .home .homeContent p{
     font-size: 1.8rem;
     line-height: 2;
     margin-bottom: 2rem;
+    color: var(--white);
 }
 .home .homeContent .home-btn{
     height: 3rem;
@@ -251,7 +252,7 @@ section{
 }
  
 .newsletter{
-    background: url(images/tegola/background/backgroundnews.jpg) no-repeat;
+    background: url(images/tegola/background/tegola.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
