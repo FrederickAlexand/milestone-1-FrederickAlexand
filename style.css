@@ -106,7 +106,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/back.png) no-repeat;
+    background: url(images/tegola/contohtegola1.JPG) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -207,7 +207,7 @@ section{
 }
 
 .blogs{
-    background: url(images/backGround.png) no-repeat;
+    background: url(images/tegola/contohtegola1.JPG) no-repeat;
     background-size: cover;
     background-position: center center;
 }
